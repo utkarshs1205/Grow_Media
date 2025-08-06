@@ -10,7 +10,7 @@ import ServicesMain from './components/navbar/services/ServicesMain';
 import FooterMain from './components/navbar/footer/FooterMain';
 import SubServices from './components/navbar/services/SubServices';
 import ExperienceMain from './components/navbar/Experience/ExperienceMain';
-import ContactUsMain from './components/navbar/ContactUs/ContactUSMain';
+import ContactUsMain from './components/navbar/ContactUs/ContactUsMain';
 //import ContactUsMain from './components/navbar/ContactUs/ContactUsMain';
 
 
