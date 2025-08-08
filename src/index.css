@@ -7,3 +7,14 @@
 body{
     @apply bg-white;
 }
+
+@media only screen and(max-width:560px){
+    .logo img{
+        image:1.png;
+        display:block !important;
+        visibility:visible !important;
+        width: 150px !important;
+        height:auto !important;
+    }
+}
+
